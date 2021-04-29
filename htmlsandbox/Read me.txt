@@ -1,0 +1,9 @@
+echo "# HTML5_sandbox" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HenkkaMrn/HTML5_sandbox.git
+git push -u origin main
+
+Compostory of basic HTML5 from online learning, personal use. 
